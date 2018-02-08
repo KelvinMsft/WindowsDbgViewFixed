@@ -8,7 +8,7 @@ When execute dbgview twice and viewing the kernel log, it shows below error :
 
 This repo fix for it. and doesn't repsonsible for any maintanence.
 
-# The cause:
+# Cause:
 
 1. First, Dbgview.exe releases a Dbgv.sys and start it  
 
