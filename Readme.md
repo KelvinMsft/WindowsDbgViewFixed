@@ -8,7 +8,7 @@ When execute dbgview twice and viewing the kernel log, it shows below error :
 
 This repo fix for it. and doesn't repsonsible for any maintanence.
 
-The cause:
+# The cause:
 
 1. First, Dbgview.exe releases a Dbgv.sys and start it  
 
@@ -21,5 +21,5 @@ The cause:
 5. If overwrite it fail. It pop the dialog as above screen capture.
  
  
-Solution :
+# Solution :
 1. Rewrite the result overwriting the Dbgv.sys for windows 10.
