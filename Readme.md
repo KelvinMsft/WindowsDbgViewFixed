@@ -1,6 +1,6 @@
 # Introduction
 
-Binary fix for Windows 10 tools - Dbgview
+Binary fix for Windows 10 Sysinternal tools - Dbgview
 
 When execute dbgview twice and viewing the log, it shows below error :
 
